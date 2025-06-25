@@ -1,19 +1,15 @@
 ## Hi there 👋
 
-<!--
-**sainath-raja/sainath-raja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **HPV prevalence prediction using machine learning**
+- 🌱 I’m currently learning **advanced data analytics, machine learning algorithms**
+- 👯 I’m looking to collaborate on **data-driven projects, machine learning models**
+- 🤔 I’m looking for help with **optimizing model performance on small imbalanced datasets.**
+- 💬 Ask me about **Python, C++, SQL, Power BI**
+- 📫 How to reach me: **www.linkedin.com/in/sainath-r-133103259/**
+- 😄 Pronouns: **He/Him**
+
 
 # 💫 About Me:
 I’m Sainath R, a Biomedical Engineering undergraduate at NIT Raipur with a strong passion for data analytics and software development. I enjoy working with tools like Power BI, Python, and SQL to uncover insights from data, and I love building web applications using technologies like HTML, CSS, and JavaScript. I’m also proficient in programming languages like C++ and Python, and constantly exploring machine learning to solve real-world problems
